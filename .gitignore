@@ -348,3 +348,9 @@ MigrationBackup/
 
 # Ionide (cross platform F# VS Code tools) working folder
 .ionide/
+
+#ignore generated files and folders
+HPL2/dependencies/
+HPL2/lib/
+amnesia/_temp/
+amnesia/redist/
